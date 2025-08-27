@@ -108,3 +108,5 @@ Visualization Techniques – line charts, bar charts, pie charts, and KPI cards.
 This dashboard is designed for business analysts, operations managers, and decision-makers at Ola to monitor performance, identify issues, and optimize customer satisfaction while maximizing revenue.
 
 # Screenshots
+
+[Dashboard]!(https://github.com/joelvm04/Ola_DataAnalysis_PowerBi/blob/main/Ola_1.png)
