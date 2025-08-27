@@ -116,3 +116,5 @@ This dashboard is designed for business analysts, operations managers, and decis
 ![](https://github.com/joelvm04/Ola_DataAnalysis_PowerBi/blob/main/Ola_3.png)
 
 ![](https://github.com/joelvm04/Ola_DataAnalysis_PowerBi/blob/main/Ola_4.png)
+
+![](https://github.com/joelvm04/Ola_DataAnalysis_PowerBi/blob/main/Ola_5.png)
